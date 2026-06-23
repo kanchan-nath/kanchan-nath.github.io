@@ -1,0 +1,9 @@
+# Studio of One
+
+> Cinematic Three.js portfolio of Kanchan Nath — a full-stack and creative developer building React, Node, AI, and 3D web experiences.
+
+This site is a single scroll-driven page that tells the story of a developer's journey through ten chapters — from writing a first HTML tag in Class IX to shipping Spark.E, a full-stack AI study platform built with React, Express, Prisma + Postgres, Redis, BullMQ, Pinecone, LangChain, Groq, Docker, and Kubernetes.
+
+## Pages
+
+- [Home](/): The full scroll-driven story, project archive, recruiter snapshot, and contact section.
